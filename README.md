@@ -16,8 +16,6 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 8.	VSWR meter MTI VS 501/NVIS
 9.	Cathode Ray Oscilloscope Scientech -801C
 
-
-
 	
 **Experimental Setup:**
 
